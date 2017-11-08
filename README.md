@@ -1,6 +1,6 @@
-# GIF-ish  (ajax /giphy)
+# GIF-ish 
 
-Using the GIPHY API to make a dynamic web page that populates with gifs of your choice.
+Using AJAX calls to the GIPHY API to make a dynamic web page that populates with gifs of your choice.
 
 want to see: 
 cats? 🐱
